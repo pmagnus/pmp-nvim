@@ -29,4 +29,4 @@ map("i", "oe", "ø")
 map("i", "OE", "Ø")
 
 -- ChatGPT
-map("n", "<leader>C", "<cmd>ChatGPT<cr>", { desc = "ChatGPT" })
+-- map("n", "<leader>C", "<cmd>ChatGPT<cr>", { desc = "ChatGPT" })
