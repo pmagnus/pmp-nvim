@@ -5,6 +5,8 @@ return {
       colorscheme = "catppuccin",
     },
   },
+  -- add gruvbox
+  { "ellisonleao/gruvbox.nvim" },
   {
     "catppuccin/nvim",
     lazy = true,
