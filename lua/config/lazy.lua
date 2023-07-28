@@ -17,8 +17,8 @@ require("lazy").setup({
     -- import/override with your plugins
 
     -- pmp-nvim
-    -- { import = "lazyvim.plugins.extras.lang.rust" },
-    -- { import = "lazyvim.plugins.extras.coding.copilot" },
+    { import = "lazyvim.plugins.extras.lang.rust" },
+    { import = "lazyvim.plugins.extras.coding.copilot" },
     -- pmp-nvim
 
     { import = "plugins" },
