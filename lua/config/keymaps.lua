@@ -21,12 +21,12 @@ map("i", "jk", "<ESC>")
 map("i", "jj", "<ESC>")
 
 -- åÅæÆøØ
-map("i", "aa", "å")
-map("i", "AA", "Å")
-map("i", "ae", "æ")
-map("i", "AE", "Æ")
-map("i", "oe", "ø")
-map("i", "OE", "Ø")
+-- map("i", "aa", "å")
+-- map("i", "AA", "Å")
+-- map("i", "ae", "æ")
+-- map("i", "AE", "Æ")
+-- map("i", "oe", "ø")
+-- map("i", "OE", "Ø")
 
 -- ChatGPT
 map("n", "<leader>C", "<cmd>ChatGPT<cr>", { desc = "ChatGPT" })
