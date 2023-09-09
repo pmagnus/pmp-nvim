@@ -19,7 +19,6 @@ require("lazy").setup({
     -- pmp-nvim
     -- { import = "lazyvim.plugins.extras.lang.rust" },
     -- { import = "lazyvim.plugins.extras.lang.go" },
-    -- { import = "lazyvim.plugins.extras.coding.copilot" },
     -- { import = "lazyvim.plugins.extras.lang.python" },
     -- { import = "lazyvim.plugins.extras.formatting.prettier" },
     -- pmp-nvim
