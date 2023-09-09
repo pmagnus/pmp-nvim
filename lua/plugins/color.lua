@@ -2,7 +2,14 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      -- colorscheme = "catppuccin",
+      -- colorscheme = "catppuccino-latte",
+      -- colorscheme = "catppuccino-frappe",
+      -- colorscheme = "catppuccino-macchiato",
+      -- colorscheme = "catppuccino-mocha",
+      -- colorscheme = "gruvbox",
+      -- colorscheme = "habamax",
+      colorscheme = "tokyonight",
     },
   },
   -- add gruvbox
