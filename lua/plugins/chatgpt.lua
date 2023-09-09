@@ -13,7 +13,7 @@ return {
     },
     config = function()
       require("chatgpt").setup({
-        api_key_cmd = "pass api/token/openai",
+        api_key_cmd = "gpg --decrypt /Users/pmagnus/secret/openai.txt.gpg",
       })
     end,
   },
